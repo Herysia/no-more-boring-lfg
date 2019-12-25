@@ -19,7 +19,7 @@ module.exports = function NoMoreBoringLFG(mod) {
         } else {
             if (e.pageCurrent == 0) {
                 lfgs = [];
-                lfgPerPage = e.listrings.length;
+                lfgPerPage = e.listings.length;
             }
             for (var i = 0; i < e.listings.length; i++) {
                 var str = e.listings[i].message.toLowerCase();
