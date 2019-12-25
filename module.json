@@ -1,0 +1,9 @@
+{
+    "author": "Herysia",
+    "description": "tera-toolbox module to hide specific lfg",
+    "disableAutoUpdate": false,
+    "name": "no-more-boring-lfg",
+    "servers": ["https://raw.githubusercontent.com/Herysia/no-more-boring-lfg/master/"],
+    "supportUrl": "https://github.com/Herysia/no-more-boring-lfg/blob/master/README.md",
+    "version": "1.00"
+}

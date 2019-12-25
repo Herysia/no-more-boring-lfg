@@ -1,0 +1,10 @@
+{
+    "files": {
+        "README.md": "e721df7a78c787499ae3d891afce10ebd24e7c1b268ff239f1f4b43f4a00f8f6",
+        "index.js": "27739a9ead7c58bb0f983205c5dc3711d677a8086fe88292bf4b523cb400dc6a",
+        "module.json": "a960ee8a98ca89b464720c1f54f640001410498826ea259adf729195ff1748b8"
+    },
+    "defs": {
+        "S_SHOW_PARTY_MATCH_INFO": 1
+    }
+}
