@@ -1,10 +1,10 @@
 {
-    "files": {
-        "LICENSE": "a221e6f715e32eeb287a0caaded00824ad4c027d7a0361507ef5f9f36824e22e",
-        "README.md": "e721df7a78c787499ae3d891afce10ebd24e7c1b268ff239f1f4b43f4a00f8f6",
-        "index.js": "755a38f42c94c6c3128105c1d527cfb9ce162e34d2f0a4993ddf2892c620a8b3",
-        "module.json": "a960ee8a98ca89b464720c1f54f640001410498826ea259adf729195ff1748b8"
-    },
+  "files": {
+    "index.js": "60902ba273d6cc476523743849605c65110ee97e4b0a11866515927ffaf8e8f7",
+    "LICENSE": "370584c80c92ecac20c3974f4fbafb9a68ed66f5a14869d10ed80c101e66f2b4",
+    "module.json": "a960ee8a98ca89b464720c1f54f640001410498826ea259adf729195ff1748b8",
+    "README.md": "e721df7a78c787499ae3d891afce10ebd24e7c1b268ff239f1f4b43f4a00f8f6"
+  },
     "defs": {
         "S_SHOW_PARTY_MATCH_INFO": 1
     }
